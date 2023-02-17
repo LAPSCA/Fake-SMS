@@ -61,5 +61,5 @@ is Simple Script Send sms to any country over world  Have Fun Support Text only
      
 # LAPSCA TEAM CoypRight 2023 
      If You Like This Tool then Kindly Give us a star. Thanks..... 
-[Telegran](https://t.me/estkan3a)
+[TELEGRAM CHANNEL](https://t.me/estkan3a)
      
