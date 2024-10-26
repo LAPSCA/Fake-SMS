@@ -111,9 +111,9 @@ def usage1():
     3. Your Phone Number Must be Start Without 0
     4. Full Usage: 24990000001
     5.Follow us in Telegram @estkan3a
-    6.use vpn for Good :| 
+    6.use vpn for Good :| if not work try another one :/
 
-    ..........NOTE: Only One Text Message Is Allowed Have Good Day...........
+    ..........NOTE: Only One Text Message!! Is Allowed Have Good Day...........
 
       ''', 'magenta'))
 
